@@ -1,0 +1,15 @@
+{
+	"name": "adfcourse-shruti",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "026ed2ea-973c-4dc1-bd71-faf0e15b4a75",
+		"tenantId": "ecb0d23f-1691-4e0a-bbfc-b36a29e085dc"
+	}
+}
